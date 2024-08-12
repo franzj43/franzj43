@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Franz
 
-<!--
-**franzj43/franzj43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Chemical Engineering graduate from Guatemala, now diving into the world of technology with a BS in Computer Science at the University of London. My journey has led me to the Analytics department, where I work as a specialist in data analytics and projects.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Current Expertise:** Python 🐍, SQL 🗄️, Tableau 📊
+- **Developing Skills:** React ⚛️, Java ☕, JavaScript 🖥️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning & Growing
+As I expand my knowledge and skills in software development, I'm always looking for new challenges and opportunities to collaborate.
+
+## 📫 Connect with Me
+You can find me on most social media platforms with the username **franzj43**.
+
+## 🌟 Pronouns: He/Him
